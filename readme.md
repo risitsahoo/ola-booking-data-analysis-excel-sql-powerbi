@@ -165,8 +165,28 @@ Dashboard pages include:
 
 ### 📸 Dashboard Preview
 
-![Ola Dashboard](ola_booking_data_analysis_images/OLA BOOKING DATA ANALYSIS IMAGE(1).png)
+### 🔹 Overall Booking Summary
+![Overall Dashboard](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(1).png)
 
+---
+
+### 🔹 Vehicle Type Performance
+![Vehicle Type](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(2).png)
+
+---
+
+### 🔹 Revenue Analysis
+![Revenue Dashboard](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(3).png)
+
+---
+
+### 🔹 Cancellation Analysis
+![Cancellation Dashboard](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(4).png)
+
+---
+
+### 🔹 Ratings Analysis
+![Ratings Dashboard](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(5).png)
 ---
 
 ## How to Run the Project
