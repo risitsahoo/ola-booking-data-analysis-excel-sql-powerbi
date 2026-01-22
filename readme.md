@@ -187,6 +187,7 @@ Dashboard pages include:
 
 ### 🔹 Ratings Analysis
 ![Ratings Dashboard](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(5).png)
+
 ---
 
 ## How to Run the Project
