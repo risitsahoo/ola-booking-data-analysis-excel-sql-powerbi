@@ -16,8 +16,8 @@
 - [Files in This Repository](#files-in-this-repository)
 - [Dashboard Overview](#dashboard-overview)
 - [How to Run the Project](#how-to-run-the-project)
-- [Key Insights & Findings](#key-insights-findings)
-- [Future Work & Business Recommendations](#future-work-business-recommendations)
+- [Key Insights & Findings](#key-insights--findings)
+- [Future Work & Business Recommendations](#future-work--business-recommendations)
 - [Conclusion](#conclusion)
 - [Contact](#contact)
 
