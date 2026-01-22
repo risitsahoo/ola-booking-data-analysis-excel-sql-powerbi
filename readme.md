@@ -165,8 +165,8 @@ Dashboard pages include:
 
 ### 📸 Dashboard Preview
 
-![Ola Dashboard](ola_booking_data_analysis_images)
-
+![Ola Dashboard](ola_booking_data_analysis_images/OLA BOOKING DATA ANALYSIS IMAGE(1).png)
+![Ola Dashboard](ola_booking_data_analysis_images/OLA BOOKING DATA ANALYSIS IMAGE(1).png)
 
 ---
 
