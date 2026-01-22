@@ -161,7 +161,12 @@ Dashboard pages include:
 - Cancellation Analysis  
 - Ratings Analysis  
 
-(Add dashboard images here)
+---
+
+### 📸 Dashboard Preview
+
+![Ola Dashboard](ola_booking_data_analysis_images)
+
 
 ---
 
