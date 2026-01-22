@@ -166,7 +166,7 @@ Dashboard pages include:
 ### 📸 Dashboard Preview
 
 ### 🔹 Overall Booking Summary
-![Overall Dashboard](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(1).png)
+![Overall Dashboard](ola_booking_data_analysis_images/OLA_BOOKING_DATA_ANALYSIS_IMAGE(1).png)
 
 ---
 
