@@ -5,21 +5,21 @@
 
 ## 📑 Table of Contents
 
-- [Project Overview](#-project-overview)  
-- [Business Problem Statement](#-business-problem-statement)  
-- [Business Objectives](#-business-objectives)  
-- [Dataset Overview](#-dataset-overview)  
-- [Tools & Techniques](#-tools--techniques)  
-- [Data Preparation & Cleaning](#-data-preparation--cleaning)  
-- [SQL-Based Data Analysis](#-sql-based-data-analysis)  
-- [Methods and Power BI Implementation](#-methods-and-power-bi-implementation)  
-- [Files in This Repository](#-files-in-this-repository)  
-- [Dashboard Overview](#-dashboard-overview)  
-- [How to Run the Project](#-how-to-run-the-project)  
-- [Key Insights & Findings](#-key-insights--findings)  
-- [Future Work & Business Recommendations](#-future-work--business-recommendations)  
-- [Conclusion](#-conclusion)  
-- [Contact](#-contact)
+- [Project Overview](#project-overview)
+- [Business Problem Statement](#business-problem-statement)
+- [Business Objectives](#business-objectives)
+- [Dataset Overview](#dataset-overview)
+- [Tools & Techniques](#tools--techniques)
+- [Data Preparation & Cleaning](#data-preparation--cleaning)
+- [SQL-Based Data Analysis](#sql-based-data-analysis)
+- [Methods and Power BI Implementation](#methods-and-power-bi-implementation)
+- [Files in This Repository](#files-in-this-repository)
+- [Dashboard Overview](#dashboard-overview)
+- [How to Run the Project](#how-to-run-the-project)
+- [Key Insights & Findings](#key-insights--findings)
+- [Future Work & Business Recommendations](#future-work--business-recommendations)
+- [Conclusion](#conclusion)
+- [Contact](#contact)
 
 ---
 
@@ -165,27 +165,27 @@ Dashboard pages include:
 
 ### 📸 Dashboard Preview
 
-#### 🔹 Overall Booking Summary
+### 🔹 Overall Booking Summary
 ![Overall Dashboard](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(1).png)
 
 ---
 
-#### 🔹 Vehicle Type Performance
+### 🔹 Vehicle Type Performance
 ![Vehicle Type](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(2).png)
 
 ---
 
-#### 🔹 Revenue Analysis
+### 🔹 Revenue Analysis
 ![Revenue Dashboard](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(3).png)
 
 ---
 
-#### 🔹 Cancellation Analysis
+### 🔹 Cancellation Analysis
 ![Cancellation Dashboard](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(4).png)
 
 ---
 
-#### 🔹 Ratings Analysis
+### 🔹 Ratings Analysis
 ![Ratings Dashboard](ola_booking_data_analysis_images/OLA%20BOOKING%20DATA%20ANALYSIS%20IMAGE(5).png)
 
 ---
